@@ -1,0 +1,177 @@
+{
+    "Header": {
+
+        "title": "AirBridge",
+        "paragraph": "bridges between the operator, authority and/or other stakeholders to enable efficient and scalable use of airspace for drone operations while managing the associated risk",
+        "title1":"Assurance to Safety and Security",
+        "contenttitle1":"Authenticated access to the airspace, including for current drone operations to future Advanced Air Mobility concepts. Safety and security of the equipment, goods and articles of our customer",
+        "title2":"Economic Viability",
+        "contenttitle2":"Route optimization and automated authorisation services to optimise the use of airspace Platform ostic and interoperable for scalability",
+        "title3":"Operational Awareness",
+        "contenttitle3":"Supports complex UA Operations, providing situational awareness and deconfliction to reduce associated safety risk"
+    },
+    "About": {
+        "paragraph": "",
+        "Why": [
+            "Flight Safety and Security – UA operations needs to provide assurance on safety and security, especially operations that are more complex like UAM and AAM.",
+            "Commercial Viability – When not well coordinated, UA operations becomes highly disorganized when scale, which limits its scalability.",
+            "Operational Complexity – UA operations are dependent on external factors, like weather, and other third-party assets not within the control of the operator"
+            
+        ],
+        "Why2": [
+            "Increasing number of commercial operators - ~20% y-o-y.",
+            "Expanding use cases for UA",
+            "A growing community of recreational UA flyers and drone hobbyists"
+           
+        ]
+    },
+    "Multiagen": {
+        "paragraph": "",
+        "Why": [
+            "Flight Safety and Security – UA operations needs to provide assurance on safety and security, especially operations that are more complex like UAM and AAM.",
+            "Commercial Viability – When not well coordinated, UA operations becomes highly disorganized when scale, which limits its scalability.",
+            "Operational Complexity – UA operations are dependent on external factors, like weather, and other third-party assets not within the control of the operator"
+            
+        ],
+        "Why2": [
+            "Provides collision free routes and schedules",
+            "Uses trajectory based operations and equivalent CNS model to perform strategic deconfliction and contingencies management to optimize the use of a designated airspace"
+           
+        ]
+    },
+    "Common": {
+        "paragraph": "",
+        "Why": [
+            "Flight Safety and Security – UA operations needs to provide assurance on safety and security, especially operations that are more complex like UAM and AAM.",
+            "Commercial Viability – When not well coordinated, UA operations becomes highly disorganized when scale, which limits its scalability.",
+            "Operational Complexity – UA operations are dependent on external factors, like weather, and other third-party assets not within the control of the operator"
+            
+        ],
+        "Why2": [
+            "Designed and built to provide the single source-of-truth airspace data for UTM services.",
+            "Amalgamation of supplementary datasets necessary for safe UAS operations",
+            "Create, publish and store 4D constraints in the airspace in realtime"
+           
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-list",
+            "name": "Demonstrated Solution",
+            "text": "The Heron AirBridge system was fully integrated into baseline UTM system, and demonstrated in Singapore's complex maritime environment supporting multiple concurrent BVLOS flight"
+        },
+        {
+            "icon": "fa fa-rotate-right",
+            "name": "Platform Agnostic",
+            "text": "Platform agnostic, and interoperable to allow integration with any UAS operators' FMS/GCS and other UTM service providers"
+        },
+        {
+            "icon": "fa fa-toggle-off",
+            "name": "Moudalar and Scalable",
+            "text": "Modularity and scalability designed to cater to the specific needs of the customer"
+        }
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Heron Tech Singapore ",
+        "phone": "+1 123 456 78",
+        "email": "heron-tech@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-crosshairs",
+            "title": "",
+            "text": "Display the real-time location of vessels/manned aircraft/weather information over the flight Area of Operations"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "",
+            "text": "Notification and Advisories for airspace control and management"
+        },
+        {
+            "icon": "fa fa-file",
+            "title": "",
+            "text": "Post incident report generation for investigation or follow up"
+        },
+        {
+            "icon": "fa fa-line-chart",
+            "title": "",
+            "text": "Post flight telemetry recording to enable Data Analytics"
+        }
+       
+    ],
+    "Features2":[
+        {
+            "icon": "fa fa-plane",
+            "title": "",
+            "text": "Authenticate and manage assets, i.e. pilots and aircraft"
+        },
+        {
+            "icon": "fa fa-book",
+            "title": "",
+            "text": "Flight planning, scheduling and authorisation"
+        },
+        {
+            "icon": "fa fa-desktop",
+            "title": "",
+            "text": "Conformance monitoring and tracking real-time position of UAS, provide airspace situation picture and weather"
+        },
+        {
+            "icon": "fa fa-database",
+            "title": "",
+            "text": "Manage airspace constraints and NFZ (Authority only)"
+        }
+    ]
+}
